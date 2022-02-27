@@ -22,7 +22,7 @@
 }
 
 #banner h2 {
-    font-size: 28px;
+    font-size: 24px;
     color: rgb(255, 255, 255);
     background-color: rgba(5, 6, 7, 0.158);
     
@@ -48,12 +48,12 @@
         
     
     #banner h2{
-        font-size: 24px;
+        font-size: 30px;
         margin-top: 10px;
 
     }
     #banner h4 {
-        font-size: 16px;
+        font-size: 18px;
 
 }
     #banner a{
@@ -73,6 +73,9 @@
         height: auto;
         margin-top: -100x;
     }
+   #banner h2 {
+      font-size: 30px:
+      }
 }
 
 @media (min-width:1080px) {
@@ -86,4 +89,7 @@
         margin-top: -100px;
    
     }
+   #banner h2{
+      font-size: 30px;
+      }
 }
