@@ -49,6 +49,9 @@
         font-size: 30px;
         margin-top: 5px;
     }
+    #banner {
+    padding-top:5em;
+    }
     #banner a{
         margin-top: -15px;
     }
