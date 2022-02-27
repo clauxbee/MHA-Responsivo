@@ -46,11 +46,11 @@
         height: 250px;
     }
     #banner h2{
-        font-size: 35px;
-        margin-top: 10px;
+        font-size: 30px;
+        margin-top: 5px;
     }
     #banner a{
-        margin-top: -5px;
+        margin-top: -15px;
     }
 }
 
