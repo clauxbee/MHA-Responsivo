@@ -47,13 +47,13 @@
     }
     #banner h2{
         font-size: 30px;
-        margin-top: 5px;
+        margin-top: -20px;
     }
     #banner {
     padding-top:5em;
     }
     #banner a{
-        margin-top: +20px;
+        margin-top: -10px;
     }
 }
 
